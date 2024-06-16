@@ -1,0 +1,51 @@
+.form1,.form2{
+    border: 2px solid red;
+    display: inline-block;
+    align-items: center;
+    font-size: 1.5vw;
+    background-image: linear-gradient(pink,rgb(242, 242, 162),rgb(160, 160, 248),rgb(245, 151, 151),rgb(126, 233, 126));
+    flex-wrap: wrap;
+    width: 20vw;
+    height: 50vh;
+    text-align: center;
+    transform: translateX(35vw);
+    box-shadow: 0px 0px 0px 10px red;
+    border-radius: 10px;
+    
+}
+.button1{
+    height: 5vh;
+    width: 10vw;
+    font-size:20px;
+}
+.form1,.form2 div{
+    margin-top: 5%;
+}
+
+.Navbar1,.anker{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: chocolate;
+    color: white;
+}
+
+.form3{
+    height: 70vh;
+    width: 40vw;
+    margin-top: 5%;
+    box-shadow: 0px 0px 0px 10px rgb(0, 255, 238);
+   
+}
+.anker3{
+    font-size: 15px;
+    height: fit-content;
+    background-color: rgb(252, 2, 2);
+    border-radius: 5px;
+    color: white;
+}
+.para1{
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
